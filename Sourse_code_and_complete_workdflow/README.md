@@ -142,5 +142,5 @@ upsert (`INSERT ... ON CONFLICT DO UPDATE`) keyed on `listing_id` instead of
 appending after a full schema rebuild.
 
 ## 8. Author
-Dhulakshan Kannan
+
 Coursework 1 — Data Engineering module, 2026.
